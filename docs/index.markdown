@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is to see if the index page works 
