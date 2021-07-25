@@ -5,4 +5,5 @@
 layout: home
 ---
 
-This is to see if the index page works 
+THIS WEBPAGE IS UNDER CONSTRUCTION
+Have a nice day :)
