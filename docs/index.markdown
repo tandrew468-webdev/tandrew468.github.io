@@ -1,11 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -22,7 +14,7 @@ layout: home
           <p>all in pink</p>
         </div>
         <div style="background-color: #2A86BA">
-          <h1>Bluuue Sky</h1>
+          <h1>Blue Sky</h1>
           <p>with it's mountains</p>
         </div>
         <div style="background-color: #252E33">
